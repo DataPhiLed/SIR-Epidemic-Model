@@ -1,0 +1,2 @@
+# SIR-Epidemic_Model
+This is a simple SIR model implemented in Matlab using the Gillespie Algorithm. In this model, six events are possible: birth, infection, recovery, death of susceptible, death of infected, death of recovered. The first 3 files perform the standard model, the second three files are modified to account for a superspreading phenomenon where certain individuals, once infected, are more virulent and likely to produce a higher number of secondary infections. PDF presentation to follow shortly. 
